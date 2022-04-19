@@ -4,11 +4,15 @@
 **Recommended programs for the GitHub workshop:**
 
 Integrated Development Environment (IDE) - for coding
+
 Visual Studio Code (recommended)
+
 Download here:
 https://code.visualstudio.com/download
+
 More information here:
 https://code.visualstudio.com/docs/setup/setup-overview 
+
 VS Code recommended extensions:
 •	Bracket Pair Colorizer
 •	Comment Anchors
