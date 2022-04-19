@@ -14,16 +14,16 @@ More information here:
 https://code.visualstudio.com/docs/setup/setup-overview 
 
 VS Code recommended extensions:
-•	Bracket Pair Colorizer
-•	Comment Anchors
-•	CSS Peak
-•	Git Graph
-•	Highlight Matching Tag
-•	indent-rainbow
-•	IntelliSense for CSS
-•	Live Server
-•	open-in-browser
-•	Tabnine
+*	Bracket Pair Colorizer
+*	Comment Anchors
+*	CSS Peak
+*	Git Graph
+*	Highlight Matching Tag
+*	indent-rainbow
+*	IntelliSense for CSS
+*	Live Server
+*	open-in-browser
+*	Tabnine
 
 Git Bash - version control with the use of git commands
 Download here: https://git-scm.com/downloads
